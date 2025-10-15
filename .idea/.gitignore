@@ -1,5 +1,18 @@
-# Default ignored files
-/shelf/
-/workspace.xml
-# Editor-based HTTP Client requests
-/httpRequests/
+# Cartelle e file di configurazione di JetBrains (PyCharm, IntelliJ)
+# Questa singola riga ignora TUTTA la cartella .idea e il suo contenuto
+.idea/
+
+# File di progetto specifici del modulo (es. 343672_Rizzi_Raffaele_Lab04.iml)
+*.iml
+
+# Cache e file compilati di Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambienti virtuali
+venv/
+.venv/
+env/
+.env/
