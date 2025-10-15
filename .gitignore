@@ -1,0 +1,6 @@
+# Cartelle e file di configurazione di JetBrains (PyCharm, IntelliJ)
+.idea/
+*.iml
+
+# Cache di Python
+__pycache__/
